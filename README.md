@@ -8,6 +8,8 @@ Further details of organization, global variables, where shit is, etc, will be s
 Some tips for navigating the repo in its current state:
 - Use folders 'WIP', 'globals', and 'finished'. Almost everything else is sourced from rochet2 or an addon delivered via AIO.
 - Globals should have a config file to be continued upon. Other files should have their adjustments as variables at the top. IE: TIMER_IN_SECONDS = 60 would imply the script's timer could be changed from 60 seconds.
+- Newer scripts will say if they require AIO or not, and if it's the client/server script
+- Newer scripts will also have the author's name if you need to contact them directly.
 
 This repo is free use for any projects interested in our features we wish to share. If users need installation support, bug fixing, or further assistance, please contact grimreapaa#4214 on discord.
 
